@@ -1,6 +1,6 @@
 # Logs
 blog.json
-
+./src/components/blog_page/Sidebar.jsx
 
 logs
 *.log

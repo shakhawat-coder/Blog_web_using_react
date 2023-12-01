@@ -1,3 +1,5 @@
- nav menu li .active{
+ menu li .active{
     color: brown;
+    border-bottom: 1px solid brown;
+
 }
